@@ -12,15 +12,24 @@ This repository contains the complete analytical derivation and computational si
 ---
 
 ## Group Members & Contributions
-* **Amir Mohammed N**: 
-  * Core mathematical derivation of separation of variables and Dirichlet boundary condition proofs.
-  * Formulation of the general time-dependent wave function using Fourier sine series.
-  * Primary development of the Python simulation, NumPy vectorization, and Matplotlib visualizations in Google Colab.
-  * Lead authoring of the LaTeX technical report and overall repository structure.
-* **Amal Krishna S** (Group Leader): Initial repository creation, coordination, and submission management.
-* **Robin Kirian Abraham**: Cross-verification of the energy eigenvalue formulas and intermediate derivation steps.
-* **Harith C V**: Review of physical parameter values (effective mass, well dimensions) and testing code execution.
-* **Hrishikesh S Nair**: Proofreading documentation, markdown styling, and reference compiling.
+## Group Members & Contributions
+* **Amir Mohammed N** : 
+  * Derived the core mathematical proof for separation of variables and Dirichlet boundary conditions.
+  * Formulated the general time-dependent Fourier sine series solution.
+  * Structured the complete Python simulation pipeline in Google Colab and implemented the probability density calculations.
+  * Authored the core sections of the LaTeX theoretical report and integrated the final documentation.
+* **Amal Krishna S** (Group Leader): 
+  * Coordinated project milestones, set up the public GitHub repository, and managed the final submission workflow.
+  * Contributed to the normalization derivation and boundary-value verification.
+* **Robin Kirian Abraham**: 
+  * Solved and verified the temporal ODE phase factor integration.
+  * Authored the physical interpretation and semiconductor device relevance section (GaAs quantum well case study).
+* **Harith C V**: 
+  * Implemented the NumPy spatial discretization and standing wave helper functions in the Colab notebook.
+  * Assisted in plotting and formatting the spatial eigenfunction amplitude graphs.
+* **Hrishikesh S Nair**: 
+  * Designed the Matplotlib subplots layout for comparing probability densities across energy states ($n=1, 2, 3$).
+  * Conducted initial code testing and compiled the bibliography/reference list.
 
 ---
 
